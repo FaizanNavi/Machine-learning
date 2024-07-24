@@ -31,14 +31,15 @@ Install the required libraries using pip:
 
 sh
 
-pip install -r requirements.txt
+pip install pandas
+pip install numpy
 
 Run the analysis:
 Use the provided scripts to start analyzing your Instagram data:
 
 sh
 
-    python analyze_instagram.py path/to/your/data.csv
+    python analyze_instagram.ipynb path/to/your/data.csv
 
 Usage 📂
 
