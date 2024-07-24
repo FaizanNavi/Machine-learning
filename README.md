@@ -56,9 +56,3 @@ We welcome contributions to enhance the Instagram Analysis project. If you would
     New Features: Implement new features to expand the capabilities of the project.
     Documentation: Improve the project documentation to make it more user-friendly.
 
-License 📄
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-Acknowledgements 🙌
-
-A big thank you to all the contributors and users who have supported this project. Your feedback and contributions are invaluable. 💖
