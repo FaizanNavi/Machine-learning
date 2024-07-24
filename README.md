@@ -1,4 +1,4 @@
-#Instagram Analysis 📊
+# Instagram Analysis 📊
 
 Welcome to the Instagram Analysis project! This Python 3 environment is equipped with numerous analytics libraries that are designed to help you analyze Instagram data efficiently. 📈
 Features ✨
