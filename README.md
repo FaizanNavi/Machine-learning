@@ -54,15 +54,15 @@ Usage 📂
 
 This environment allows you to:
 
-    Import CSV Files: Load Instagram data from CSV files for analysis.
-    Perform Data Analysis: Utilize powerful Python libraries to analyze and visualize your data.
-    Generate Reports: Create comprehensive reports based on your analysis.
+Import CSV Files: Load Instagram data from CSV files for analysis.
+Perform Data Analysis: Utilize powerful Python libraries to analyze and visualize your data.
+Generate Reports: Create comprehensive reports based on your analysis.
 
 Contributing 🤝
 
 We welcome contributions to enhance the Instagram Analysis project. If you would like to contribute, please fork the repository and create a pull request. Here are some ways you can contribute:
 
-    Bug Fixes: Identify and fix bugs in the existing codebase.
-    New Features: Implement new features to expand the capabilities of the project.
-    Documentation: Improve the project documentation to make it more user-friendly.
+Bug Fixes: Identify and fix bugs in the existing codebase.
+New Features: Implement new features to expand the capabilities of the project.
+Documentation: Improve the project documentation to make it more user-friendly.
 
