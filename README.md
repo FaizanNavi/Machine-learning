@@ -33,6 +33,10 @@ sh
 
 pip install pandas
 pip install numpy
+pip install matplotlib
+pip install plotly
+pip install wordcloud
+pip install sklearn
 
 Run the analysis:
 Use the provided scripts to start analyzing your Instagram data:
